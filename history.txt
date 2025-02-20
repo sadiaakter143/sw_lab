@@ -1,0 +1,73 @@
+    1  hi\cd
+    2  cat
+    3  D:
+    4  cd D:
+    5  ls
+    6  clear
+    7  cd Git_Folder/
+    8  cd c
+    9  cd D:
+   10  ls
+   11  Git_Folder/
+   12  git users
+   13  git config --global user.mail "ojotha@uits.edu.bd"
+   14  git config --global user.name "ojotha"
+   15  git config --global user.mail "ojotha@uits.edu.bd"
+   16  git init
+   17  ls
+   18  ls -a
+   19  git init
+   20  touch test.c
+   21  git status
+   22  touch test.c
+   23  git status
+   24  git log
+   25  git commit am "Display"
+   26  pwd
+   27  ls
+   28  mkdir tom
+   29  cd tom
+   30  cd..
+   31  cd ..
+   32  cd ..
+   33  ls
+   34  cd tom
+   35  ls /newfolder/tom
+   36  cd New\ tom
+   37  touch simba.txt
+   38  ls
+   39  cd  simba.txt 
+   40  cd New\ folder
+   41  ls
+   42  cd new folder (6)
+   43  cd ..
+   44  mkdir simba
+   45  cd simba
+   46  touch jerry.txt
+   47  ls
+   48  nano jerry.txt
+   49  cat jerry.txt
+   50  clr
+   51  clear
+   52  git --version
+   53  git config --global user.name"sadiaakter143"
+   54  git config --global user.email"sadiaaktershammi2000@gmail.com"
+   55  git conflig user.name
+   56  git config user.name
+   57  git config --global user.name "sadiaakter143"
+   58  git config --global user.email "sadiaaktershammi2000@gmail.com"
+   59  git config user.name
+   60  git config user.email
+   61  git init
+   62  ls -a
+   63  git add.
+   64  git status
+   65  git add .
+   66  git status
+   67  git status
+   68  git add .
+   69  git restore simba.txt
+   70  git restore jerry.txt
+   71  git status
+   72  git restore jerry.txt
+   73  history > history.txt
